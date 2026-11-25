@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "config_version": 1,
+  "values": {
+    "ads.interstitial_daily_cap": 8,
+    "ads.interstitial_cooldown_s": 180,
+    "ads.rewarded_recent_window_s": 45,
+    "ads.daily_window_s": 86400
+  }
+}
