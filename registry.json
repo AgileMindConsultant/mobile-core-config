@@ -1,0 +1,29 @@
+{
+  "keys": {
+    "ads.daily_window_s": {
+      "default": 86400,
+      "max": 86400,
+      "min": 1,
+      "type": "NUMBER"
+    },
+    "ads.interstitial_cooldown_s": {
+      "default": 180,
+      "max": 3600,
+      "min": 0,
+      "type": "NUMBER"
+    },
+    "ads.interstitial_daily_cap": {
+      "default": 8,
+      "max": 50,
+      "min": 1,
+      "type": "NUMBER"
+    },
+    "ads.rewarded_recent_window_s": {
+      "default": 45,
+      "max": 600,
+      "min": 0,
+      "type": "NUMBER"
+    }
+  },
+  "schema_version": 1
+}
